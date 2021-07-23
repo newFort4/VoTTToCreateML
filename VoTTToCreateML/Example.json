@@ -1,0 +1,2640 @@
+{
+    "name": "StopSignObjDetection",
+    "securityToken": "StopSignObjDetection Token",
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Stop-Sign",
+            "color": "#5db300"
+        }
+    ],
+    "id": "0KOXDLoGv",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "87bbfb0d74c351b5eebe8deaa98187bb",
+    "assets": {
+        "87bbfb0d74c351b5eebe8deaa98187bb": {
+            "asset": {
+                "format": "jpg",
+                "id": "87bbfb0d74c351b5eebe8deaa98187bb",
+                "name": "yannis-h-Sqez8_QTi8o-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/yannis-h-Sqez8_QTi8o-unsplash.jpg",
+                "size": {
+                    "width": 3456,
+                    "height": 5184
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "MVYQIBgNg",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 798.5593645080062,
+                        "width": 693.9519985465116,
+                        "left": 1430.8737645348838,
+                        "top": 1331.9810780927169
+                    },
+                    "points": [
+                        {
+                            "x": 1430.8737645348838,
+                            "y": 1331.9810780927169
+                        },
+                        {
+                            "x": 2124.8257630813955,
+                            "y": 1331.9810780927169
+                        },
+                        {
+                            "x": 2124.8257630813955,
+                            "y": 2130.540442600723
+                        },
+                        {
+                            "x": 1430.8737645348838,
+                            "y": 2130.540442600723
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "57fedf0dedcbe268410494f5cdfc1ab4": {
+            "asset": {
+                "format": "jpg",
+                "id": "57fedf0dedcbe268410494f5cdfc1ab4",
+                "name": "will-porada-ZaGcU6BxJEc-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/will-porada-ZaGcU6BxJEc-unsplash.jpg",
+                "size": {
+                    "width": 5760,
+                    "height": 3840
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "IL34fFRBI",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 2671.5048997751237,
+                        "width": 2035.6986662531017,
+                        "left": 1793.0327233250619,
+                        "top": 468.666761980459
+                    },
+                    "points": [
+                        {
+                            "x": 1793.0327233250619,
+                            "y": 468.666761980459
+                        },
+                        {
+                            "x": 3828.7313895781635,
+                            "y": 468.666761980459
+                        },
+                        {
+                            "x": 3828.7313895781635,
+                            "y": 3140.171661755583
+                        },
+                        {
+                            "x": 1793.0327233250619,
+                            "y": 3140.171661755583
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "aa5beda6c79c7edbceed165ebde5f8bf": {
+            "asset": {
+                "format": "jpg",
+                "id": "aa5beda6c79c7edbceed165ebde5f8bf",
+                "name": "untitled-photo-3d6zCZ4lpBE-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/untitled-photo-3d6zCZ4lpBE-unsplash.jpg",
+                "size": {
+                    "width": 4592,
+                    "height": 3056
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "qaa1YP-XW",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 652.9330551242236,
+                        "width": 581.0916829830956,
+                        "left": 1893.3715590105458,
+                        "top": 1122.0133176436336
+                    },
+                    "points": [
+                        {
+                            "x": 1893.3715590105458,
+                            "y": 1122.0133176436336
+                        },
+                        {
+                            "x": 2474.4632419936415,
+                            "y": 1122.0133176436336
+                        },
+                        {
+                            "x": 2474.4632419936415,
+                            "y": 1774.9463727678572
+                        },
+                        {
+                            "x": 1893.3715590105458,
+                            "y": 1774.9463727678572
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "03a5bb0a93aa7a3b659297748d7f0a50": {
+            "asset": {
+                "format": "jpg",
+                "id": "03a5bb0a93aa7a3b659297748d7f0a50",
+                "name": "tyler-nix-ahee6DMcUcI-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/tyler-nix-ahee6DMcUcI-unsplash.jpg",
+                "size": {
+                    "width": 3719,
+                    "height": 5578
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "7wSAEYHmT",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 1134.9223881240719,
+                        "width": 1133.914079533067,
+                        "left": 1487.6316729878272,
+                        "top": 1990.8106345184576
+                    },
+                    "points": [
+                        {
+                            "x": 1487.6316729878272,
+                            "y": 1990.8106345184576
+                        },
+                        {
+                            "x": 2621.545752520894,
+                            "y": 1990.8106345184576
+                        },
+                        {
+                            "x": 2621.545752520894,
+                            "y": 3125.7330226425297
+                        },
+                        {
+                            "x": 1487.6316729878272,
+                            "y": 3125.7330226425297
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "eaf21c1dd0969b3b9c0afab5aeb0ac89": {
+            "asset": {
+                "format": "jpg",
+                "id": "eaf21c1dd0969b3b9c0afab5aeb0ac89",
+                "name": "tom-dillon-t9Eaei-jz7Y-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/tom-dillon-t9Eaei-jz7Y-unsplash.jpg",
+                "size": {
+                    "width": 5184,
+                    "height": 3456
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "eGzyigjeh",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 527.827388337469,
+                        "width": 678.4569149348634,
+                        "left": 2524.367051799007,
+                        "top": 0
+                    },
+                    "points": [
+                        {
+                            "x": 2524.367051799007,
+                            "y": 0
+                        },
+                        {
+                            "x": 3202.8239667338707,
+                            "y": 0
+                        },
+                        {
+                            "x": 3202.8239667338707,
+                            "y": 527.827388337469
+                        },
+                        {
+                            "x": 2524.367051799007,
+                            "y": 527.827388337469
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "04cc3d0a627d3efc30ea35a3482869a6": {
+            "asset": {
+                "format": "jpg",
+                "id": "04cc3d0a627d3efc30ea35a3482869a6",
+                "name": "suad-kamardeen-EcQW_Caifz8-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/suad-kamardeen-EcQW_Caifz8-unsplash.jpg",
+                "size": {
+                    "width": 6000,
+                    "height": 4000
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "qV3bQPtrT",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 219.5033222510856,
+                        "width": 254.39059349798387,
+                        "left": 3299.2152363135856,
+                        "top": 1402.8550519540943
+                    },
+                    "points": [
+                        {
+                            "x": 3299.2152363135856,
+                            "y": 1402.8550519540943
+                        },
+                        {
+                            "x": 3553.6058298115695,
+                            "y": 1402.8550519540943
+                        },
+                        {
+                            "x": 3553.6058298115695,
+                            "y": 1622.3583742051799
+                        },
+                        {
+                            "x": 3299.2152363135856,
+                            "y": 1622.3583742051799
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "1977768f349f50376e9a36e535781611": {
+            "asset": {
+                "format": "jpg",
+                "id": "1977768f349f50376e9a36e535781611",
+                "name": "sandy-ching-ixLUOtNSSHQ-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/sandy-ching-ixLUOtNSSHQ-unsplash.jpg",
+                "size": {
+                    "width": 5304,
+                    "height": 7399
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "j-EIqjZfj",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 262.92306102405894,
+                        "width": 301.9766208967489,
+                        "left": 1690.6492536473343,
+                        "top": 5061.4832943372485
+                    },
+                    "points": [
+                        {
+                            "x": 1690.6492536473343,
+                            "y": 5061.4832943372485
+                        },
+                        {
+                            "x": 1992.6258745440832,
+                            "y": 5061.4832943372485
+                        },
+                        {
+                            "x": 1992.6258745440832,
+                            "y": 5324.406355361308
+                        },
+                        {
+                            "x": 1690.6492536473343,
+                            "y": 5324.406355361308
+                        }
+                    ]
+                },
+                {
+                    "id": "FCAF3uQAr",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 269.4180640859052,
+                        "width": 278.4231301783141,
+                        "left": 3333.1046497883644,
+                        "top": 5003.493861742256
+                    },
+                    "points": [
+                        {
+                            "x": 3333.1046497883644,
+                            "y": 5003.493861742256
+                        },
+                        {
+                            "x": 3611.5277799666787,
+                            "y": 5003.493861742256
+                        },
+                        {
+                            "x": 3611.5277799666787,
+                            "y": 5272.911925828162
+                        },
+                        {
+                            "x": 3333.1046497883644,
+                            "y": 5272.911925828162
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "a61087358a4e19e0b093374e6744bf44": {
+            "asset": {
+                "format": "jpg",
+                "id": "a61087358a4e19e0b093374e6744bf44",
+                "name": "samuel-sng-Uj5tQyHS2d0-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/samuel-sng-Uj5tQyHS2d0-unsplash.jpg",
+                "size": {
+                    "width": 6000,
+                    "height": 4000
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "HLBlmrmFj",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 832.5271038500309,
+                        "width": 927.3054629342431,
+                        "left": 4079.2869397487593,
+                        "top": 2483.204881843207
+                    },
+                    "points": [
+                        {
+                            "x": 4079.2869397487593,
+                            "y": 2483.204881843207
+                        },
+                        {
+                            "x": 5006.592402683003,
+                            "y": 2483.204881843207
+                        },
+                        {
+                            "x": 5006.592402683003,
+                            "y": 3315.731985693238
+                        },
+                        {
+                            "x": 4079.2869397487593,
+                            "y": 3315.731985693238
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "329a3c7960df8db4713ac78e9e9aac13": {
+            "asset": {
+                "format": "jpg",
+                "id": "329a3c7960df8db4713ac78e9e9aac13",
+                "name": "sam-xu-FgY6bF6emj0-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/sam-xu-FgY6bF6emj0-unsplash.jpg",
+                "size": {
+                    "width": 4344,
+                    "height": 2896
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "ESy0DWUWU",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 607.4770174618099,
+                        "width": 640.486319643688,
+                        "left": 2687.902764180754,
+                        "top": 392.8500497974178
+                    },
+                    "points": [
+                        {
+                            "x": 2687.902764180754,
+                            "y": 392.8500497974178
+                        },
+                        {
+                            "x": 3328.389083824442,
+                            "y": 392.8500497974178
+                        },
+                        {
+                            "x": 3328.389083824442,
+                            "y": 1000.3270672592278
+                        },
+                        {
+                            "x": 2687.902764180754,
+                            "y": 1000.3270672592278
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "fcddc44888a3930c8150dae863fd0bf0": {
+            "asset": {
+                "format": "jpg",
+                "id": "fcddc44888a3930c8150dae863fd0bf0",
+                "name": "ron-mcclenny-EpHH_NKwKkE-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/ron-mcclenny-EpHH_NKwKkE-unsplash.jpg",
+                "size": {
+                    "width": 5168,
+                    "height": 3448
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "jPnogFq5v",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 520.8534714558164,
+                        "width": 505.25104683622834,
+                        "left": 2390.1638912582716,
+                        "top": 1601.4810024105484
+                    },
+                    "points": [
+                        {
+                            "x": 2390.1638912582716,
+                            "y": 1601.4810024105484
+                        },
+                        {
+                            "x": 2895.4149380945,
+                            "y": 1601.4810024105484
+                        },
+                        {
+                            "x": 2895.4149380945,
+                            "y": 2122.3344738663645
+                        },
+                        {
+                            "x": 2390.1638912582716,
+                            "y": 2122.3344738663645
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "9cb957aacd4d1006bcfcf907691c32ab": {
+            "asset": {
+                "format": "jpg",
+                "id": "9cb957aacd4d1006bcfcf907691c32ab",
+                "name": "renan-kamikoga-vxx6ilmR-W4-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/renan-kamikoga-vxx6ilmR-W4-unsplash.jpg",
+                "size": {
+                    "width": 3613,
+                    "height": 5472
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "oQXWs1jQ7",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 179.86611207063532,
+                        "width": 221.9380426302389,
+                        "left": 1396.324136128075,
+                        "top": 3200.8714024567407
+                    },
+                    "points": [
+                        {
+                            "x": 1396.324136128075,
+                            "y": 3200.8714024567407
+                        },
+                        {
+                            "x": 1618.262178758314,
+                            "y": 3200.8714024567407
+                        },
+                        {
+                            "x": 1618.262178758314,
+                            "y": 3380.737514527376
+                        },
+                        {
+                            "x": 1396.324136128075,
+                            "y": 3380.737514527376
+                        }
+                    ]
+                },
+                {
+                    "id": "7YQ8n_E3X",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 173.67739540289256,
+                        "width": 234.700940724643,
+                        "left": 3153.304450427609,
+                        "top": 3141.4998143724174
+                    },
+                    "points": [
+                        {
+                            "x": 3153.304450427609,
+                            "y": 3141.4998143724174
+                        },
+                        {
+                            "x": 3388.0053911522523,
+                            "y": 3141.4998143724174
+                        },
+                        {
+                            "x": 3388.0053911522523,
+                            "y": 3315.1772097753096
+                        },
+                        {
+                            "x": 3153.304450427609,
+                            "y": 3315.1772097753096
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "0204e106e9dfbfcff10d11177dbbf0e5": {
+            "asset": {
+                "format": "jpg",
+                "id": "0204e106e9dfbfcff10d11177dbbf0e5",
+                "name": "phil-garrison-ezvpHWyqsYg-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/phil-garrison-ezvpHWyqsYg-unsplash.jpg",
+                "size": {
+                    "width": 5807,
+                    "height": 3263
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "B3YmsyXP4",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 2524.00198090094,
+                        "width": 3037.607191011667,
+                        "left": 2082.650643398389,
+                        "top": 738.9980190990599
+                    },
+                    "points": [
+                        {
+                            "x": 2082.650643398389,
+                            "y": 738.9980190990599
+                        },
+                        {
+                            "x": 5120.257834410056,
+                            "y": 738.9980190990599
+                        },
+                        {
+                            "x": 5120.257834410056,
+                            "y": 3263
+                        },
+                        {
+                            "x": 2082.650643398389,
+                            "y": 3263
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "8a5ddbad0bbc5fc8ee66e35379b7fea8": {
+            "asset": {
+                "format": "jpg",
+                "id": "8a5ddbad0bbc5fc8ee66e35379b7fea8",
+                "name": "pedro-da-silva-unEmGQqdO7Q-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/pedro-da-silva-unEmGQqdO7Q-unsplash.jpg",
+                "size": {
+                    "width": 2271,
+                    "height": 2271
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "mZocobCGa",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 683.7956251664596,
+                        "width": 546.204605985279,
+                        "left": 884.5356237238102,
+                        "top": 1360.7231404958677
+                    },
+                    "points": [
+                        {
+                            "x": 884.5356237238102,
+                            "y": 1360.7231404958677
+                        },
+                        {
+                            "x": 1430.7402297090894,
+                            "y": 1360.7231404958677
+                        },
+                        {
+                            "x": 1430.7402297090894,
+                            "y": 2044.5187656623273
+                        },
+                        {
+                            "x": 884.5356237238102,
+                            "y": 2044.5187656623273
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "2871520ec0af267d4590a2e8374e1f48": {
+            "asset": {
+                "format": "jpg",
+                "id": "2871520ec0af267d4590a2e8374e1f48",
+                "name": "olivia-connell-Tc9KWrlOL0E-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/olivia-connell-Tc9KWrlOL0E-unsplash.jpg",
+                "size": {
+                    "width": 2134,
+                    "height": 3000
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "fIDEi4W-r",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 77.99233680914257,
+                        "width": 84.47490400915049,
+                        "left": 1098.7208358255284,
+                        "top": 1531.6545470686983
+                    },
+                    "points": [
+                        {
+                            "x": 1098.7208358255284,
+                            "y": 1531.6545470686983
+                        },
+                        {
+                            "x": 1183.195739834679,
+                            "y": 1531.6545470686983
+                        },
+                        {
+                            "x": 1183.195739834679,
+                            "y": 1609.646883877841
+                        },
+                        {
+                            "x": 1098.7208358255284,
+                            "y": 1609.646883877841
+                        }
+                    ]
+                },
+                {
+                    "id": "B1mGGEtyJ",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 105.23873321280992,
+                        "width": 114.6692364032452,
+                        "left": 1313.264040389151,
+                        "top": 1653.4123066043067
+                    },
+                    "points": [
+                        {
+                            "x": 1313.264040389151,
+                            "y": 1653.4123066043067
+                        },
+                        {
+                            "x": 1427.933276792396,
+                            "y": 1653.4123066043067
+                        },
+                        {
+                            "x": 1427.933276792396,
+                            "y": 1758.6510398171165
+                        },
+                        {
+                            "x": 1313.264040389151,
+                            "y": 1758.6510398171165
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "6e98e2abcc7868200294a8b3140d2f3a": {
+            "asset": {
+                "format": "jpg",
+                "id": "6e98e2abcc7868200294a8b3140d2f3a",
+                "name": "naina-vij--j35s3zjPKU-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/naina-vij--j35s3zjPKU-unsplash.jpg",
+                "size": {
+                    "width": 3024,
+                    "height": 4032
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "YMc7fkuD7",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 3220.7703211760722,
+                        "width": 3019.9669098657027,
+                        "left": 4.033090134297521,
+                        "top": 458.99579614056046
+                    },
+                    "points": [
+                        {
+                            "x": 4.033090134297521,
+                            "y": 458.99579614056046
+                        },
+                        {
+                            "x": 3024.0000000000005,
+                            "y": 458.99579614056046
+                        },
+                        {
+                            "x": 3024.0000000000005,
+                            "y": 3679.7661173166325
+                        },
+                        {
+                            "x": 4.033090134297521,
+                            "y": 3679.7661173166325
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "13fc8b06600b342c416d307ba8903879": {
+            "asset": {
+                "format": "jpg",
+                "id": "13fc8b06600b342c416d307ba8903879",
+                "name": "melanie-these-mXIViwsTvIc-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/melanie-these-mXIViwsTvIc-unsplash.jpg",
+                "size": {
+                    "width": 3168,
+                    "height": 4752
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "77h6U-m-y",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 1876.6095886230469,
+                        "width": 1883.8524255087211,
+                        "left": 681.4730832122093,
+                        "top": 640.8839305530895
+                    },
+                    "points": [
+                        {
+                            "x": 681.4730832122093,
+                            "y": 640.8839305530895
+                        },
+                        {
+                            "x": 2565.3255087209304,
+                            "y": 640.8839305530895
+                        },
+                        {
+                            "x": 2565.3255087209304,
+                            "y": 2517.4935191761365
+                        },
+                        {
+                            "x": 681.4730832122093,
+                            "y": 2517.4935191761365
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "c177cb32043d4496f4aa9a6d30d279b6": {
+            "asset": {
+                "format": "jpg",
+                "id": "c177cb32043d4496f4aa9a6d30d279b6",
+                "name": "mason-wilkes-q-nm36mpsDw-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/mason-wilkes-q-nm36mpsDw-unsplash.jpg",
+                "size": {
+                    "width": 5610,
+                    "height": 3740
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "3eYe-Vr3D",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 467.08650574790636,
+                        "width": 448.1048538548775,
+                        "left": 835.8847197350439,
+                        "top": 1032.6466676319208
+                    },
+                    "points": [
+                        {
+                            "x": 835.8847197350439,
+                            "y": 1032.6466676319208
+                        },
+                        {
+                            "x": 1283.9895735899213,
+                            "y": 1032.6466676319208
+                        },
+                        {
+                            "x": 1283.9895735899213,
+                            "y": 1499.7331733798271
+                        },
+                        {
+                            "x": 835.8847197350439,
+                            "y": 1499.7331733798271
+                        }
+                    ]
+                },
+                {
+                    "id": "tphtQkx5z",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 454.9195789876706,
+                        "width": 454.2511910185329,
+                        "left": 3925.7484152062657,
+                        "top": 987.176743878916
+                    },
+                    "points": [
+                        {
+                            "x": 3925.7484152062657,
+                            "y": 987.176743878916
+                        },
+                        {
+                            "x": 4379.999606224798,
+                            "y": 987.176743878916
+                        },
+                        {
+                            "x": 4379.999606224798,
+                            "y": 1442.0963228665867
+                        },
+                        {
+                            "x": 3925.7484152062657,
+                            "y": 1442.0963228665867
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "206772b7f7961d1086099deb47ed26dd": {
+            "asset": {
+                "format": "jpg",
+                "id": "206772b7f7961d1086099deb47ed26dd",
+                "name": "marcos-mathias-Jd7jw1Vf_aI-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/marcos-mathias-Jd7jw1Vf_aI-unsplash.jpg",
+                "size": {
+                    "width": 4752,
+                    "height": 3168
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "KpGlwtawv",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 1369.757572600031,
+                        "width": 1011.8589654737902,
+                        "left": 1721.9825454598324,
+                        "top": 879.3211897099875
+                    },
+                    "points": [
+                        {
+                            "x": 1721.9825454598324,
+                            "y": 879.3211897099875
+                        },
+                        {
+                            "x": 2733.841510933623,
+                            "y": 879.3211897099875
+                        },
+                        {
+                            "x": 2733.841510933623,
+                            "y": 2249.0787623100186
+                        },
+                        {
+                            "x": 1721.9825454598324,
+                            "y": 2249.0787623100186
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "f8e7ef381e9da135f7f80b05c81a8135": {
+            "asset": {
+                "format": "jpg",
+                "id": "f8e7ef381e9da135f7f80b05c81a8135",
+                "name": "luke-van-zyl-rKSHh6nEG1g-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/luke-van-zyl-rKSHh6nEG1g-unsplash.jpg",
+                "size": {
+                    "width": 3376,
+                    "height": 6000
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "6puOiEEWI",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 2744.0556297617513,
+                        "width": 2088.476548165138,
+                        "left": 99.4711045011468,
+                        "top": 0
+                    },
+                    "points": [
+                        {
+                            "x": 99.4711045011468,
+                            "y": 0
+                        },
+                        {
+                            "x": 2187.9476526662847,
+                            "y": 0
+                        },
+                        {
+                            "x": 2187.9476526662847,
+                            "y": 2744.0556297617513
+                        },
+                        {
+                            "x": 99.4711045011468,
+                            "y": 2744.0556297617513
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "eddb51671ae83bdc549102bcb71503c2": {
+            "asset": {
+                "format": "jpg",
+                "id": "eddb51671ae83bdc549102bcb71503c2",
+                "name": "kevork-kurdoghlian-eB2YX2TzNIA-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/kevork-kurdoghlian-eB2YX2TzNIA-unsplash.jpg",
+                "size": {
+                    "width": 6016,
+                    "height": 4000
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "TinLEftPf",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 757.0075039839862,
+                        "width": 824.5585582092639,
+                        "left": 4364.21629445823,
+                        "top": 1840.758973686256
+                    },
+                    "points": [
+                        {
+                            "x": 4364.21629445823,
+                            "y": 1840.758973686256
+                        },
+                        {
+                            "x": 5188.774852667494,
+                            "y": 1840.758973686256
+                        },
+                        {
+                            "x": 5188.774852667494,
+                            "y": 2597.7664776702422
+                        },
+                        {
+                            "x": 4364.21629445823,
+                            "y": 2597.7664776702422
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "21e1e86c2496057c8931d80270a745c5": {
+            "asset": {
+                "format": "jpg",
+                "id": "21e1e86c2496057c8931d80270a745c5",
+                "name": "kevin-lee-dU8dAD8KoOI-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/kevin-lee-dU8dAD8KoOI-unsplash.jpg",
+                "size": {
+                    "width": 4000,
+                    "height": 6000
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "JweQXV9Yf",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 268.3350113797779,
+                        "width": 322.6626847141473,
+                        "left": 391.64622698643416,
+                        "top": 2994.232556051459
+                    },
+                    "points": [
+                        {
+                            "x": 391.64622698643416,
+                            "y": 2994.232556051459
+                        },
+                        {
+                            "x": 714.3089117005815,
+                            "y": 2994.232556051459
+                        },
+                        {
+                            "x": 714.3089117005815,
+                            "y": 3262.5675674312374
+                        },
+                        {
+                            "x": 391.64622698643416,
+                            "y": 3262.5675674312374
+                        }
+                    ]
+                },
+                {
+                    "id": "TQIEq6UdB",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 319.68777238830063,
+                        "width": 302.37403100775197,
+                        "left": 3130.686773255814,
+                        "top": 2867.873514979339
+                    },
+                    "points": [
+                        {
+                            "x": 3130.686773255814,
+                            "y": 2867.873514979339
+                        },
+                        {
+                            "x": 3433.0608042635663,
+                            "y": 2867.873514979339
+                        },
+                        {
+                            "x": 3433.0608042635663,
+                            "y": 3187.5612873676396
+                        },
+                        {
+                            "x": 3130.686773255814,
+                            "y": 3187.5612873676396
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "43963d3e6792b572ab4b965f50c1958d": {
+            "asset": {
+                "format": "jpg",
+                "id": "43963d3e6792b572ab4b965f50c1958d",
+                "name": "kelly-sikkema-4KzwQGsDRvA-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/kelly-sikkema-4KzwQGsDRvA-unsplash.jpg",
+                "size": {
+                    "width": 5568,
+                    "height": 3250
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "D9LFcsI8c",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 220.16578220443077,
+                        "width": 230.66732901674936,
+                        "left": 3360.822503101737,
+                        "top": 1497.0738786475854
+                    },
+                    "points": [
+                        {
+                            "x": 3360.822503101737,
+                            "y": 1497.0738786475854
+                        },
+                        {
+                            "x": 3591.4898321184864,
+                            "y": 1497.0738786475854
+                        },
+                        {
+                            "x": 3591.4898321184864,
+                            "y": 1717.2396608520162
+                        },
+                        {
+                            "x": 3360.822503101737,
+                            "y": 1717.2396608520162
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "8bb2bfcb943d0ffbd2de3e833e5cb5ad": {
+            "asset": {
+                "format": "jpg",
+                "id": "8bb2bfcb943d0ffbd2de3e833e5cb5ad",
+                "name": "juli-kosolapova-DmtblAatFtk-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/juli-kosolapova-DmtblAatFtk-unsplash.jpg",
+                "size": {
+                    "width": 4288,
+                    "height": 2848
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "xKrWNQay8",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 1130.7812852681352,
+                        "width": 1060.234345921216,
+                        "left": 2035.7274510184038,
+                        "top": 847.8505762083593
+                    },
+                    "points": [
+                        {
+                            "x": 2035.7274510184038,
+                            "y": 847.8505762083593
+                        },
+                        {
+                            "x": 3095.9617969396195,
+                            "y": 847.8505762083593
+                        },
+                        {
+                            "x": 3095.9617969396195,
+                            "y": 1978.6318614764944
+                        },
+                        {
+                            "x": 2035.7274510184038,
+                            "y": 1978.6318614764944
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "0831a67ef1e251b1542ed0242da412ec": {
+            "asset": {
+                "format": "jpg",
+                "id": "0831a67ef1e251b1542ed0242da412ec",
+                "name": "joshua-hoehne-WPrTKRw8KRQ-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/joshua-hoehne-WPrTKRw8KRQ-unsplash.jpg",
+                "size": {
+                    "width": 4814,
+                    "height": 3209
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "13hYT5rum",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 2724.677225874908,
+                        "width": 2793.0870211390643,
+                        "left": 1152.3005102014029,
+                        "top": 288.4689768750969
+                    },
+                    "points": [
+                        {
+                            "x": 1152.3005102014029,
+                            "y": 288.4689768750969
+                        },
+                        {
+                            "x": 3945.3875313404674,
+                            "y": 288.4689768750969
+                        },
+                        {
+                            "x": 3945.3875313404674,
+                            "y": 3013.1462027500047
+                        },
+                        {
+                            "x": 1152.3005102014029,
+                            "y": 3013.1462027500047
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "0283f206c8363b6f57a1b7def330537b": {
+            "asset": {
+                "format": "jpg",
+                "id": "0283f206c8363b6f57a1b7def330537b",
+                "name": "josh-wilburne-3Cs4mF7fL3w-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/josh-wilburne-3Cs4mF7fL3w-unsplash.jpg",
+                "size": {
+                    "width": 3000,
+                    "height": 2000
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "3E3X7-mOV",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 232.48548484026054,
+                        "width": 242.36727352473633,
+                        "left": 1187.642819236585,
+                        "top": 702.367437092897
+                    },
+                    "points": [
+                        {
+                            "x": 1187.642819236585,
+                            "y": 702.367437092897
+                        },
+                        {
+                            "x": 1430.0100927613212,
+                            "y": 702.367437092897
+                        },
+                        {
+                            "x": 1430.0100927613212,
+                            "y": 934.8529219331575
+                        },
+                        {
+                            "x": 1187.642819236585,
+                            "y": 934.8529219331575
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "ee350e3ec00d87241dd67509c4f6e921": {
+            "asset": {
+                "format": "jpg",
+                "id": "ee350e3ec00d87241dd67509c4f6e921",
+                "name": "jose-alonso-fl9kHTSPSvk-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/jose-alonso-fl9kHTSPSvk-unsplash.jpg",
+                "size": {
+                    "width": 3024,
+                    "height": 4032
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "-Y-5uHeD6",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 234.36972172004135,
+                        "width": 283.96473075929754,
+                        "left": 1952.164603241219,
+                        "top": 2017.5299506069216
+                    },
+                    "points": [
+                        {
+                            "x": 1952.164603241219,
+                            "y": 2017.5299506069216
+                        },
+                        {
+                            "x": 2236.129334000517,
+                            "y": 2017.5299506069216
+                        },
+                        {
+                            "x": 2236.129334000517,
+                            "y": 2251.899672326963
+                        },
+                        {
+                            "x": 1952.164603241219,
+                            "y": 2251.899672326963
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "032d9f7f46f9fe1953b5b3b7cbff09a6": {
+            "asset": {
+                "format": "jpg",
+                "id": "032d9f7f46f9fe1953b5b3b7cbff09a6",
+                "name": "jon-tyson-QNp4m7gU7BA-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/jon-tyson-QNp4m7gU7BA-unsplash.jpg",
+                "size": {
+                    "width": 2686,
+                    "height": 3576
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "sCR6oOoQc",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 610.121773711906,
+                        "width": 653.8000711601079,
+                        "left": 543.119985882157,
+                        "top": 891.9565021105049
+                    },
+                    "points": [
+                        {
+                            "x": 543.119985882157,
+                            "y": 891.9565021105049
+                        },
+                        {
+                            "x": 1196.920057042265,
+                            "y": 891.9565021105049
+                        },
+                        {
+                            "x": 1196.920057042265,
+                            "y": 1502.078275822411
+                        },
+                        {
+                            "x": 543.119985882157,
+                            "y": 1502.078275822411
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "d18100addf294b67ef314c468e067c6c": {
+            "asset": {
+                "format": "jpg",
+                "id": "d18100addf294b67ef314c468e067c6c",
+                "name": "jon-tyson-1IqQDH6KgdU-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/jon-tyson-1IqQDH6KgdU-unsplash.jpg",
+                "size": {
+                    "width": 2918,
+                    "height": 3890
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "BN1lf-Fhr",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 2650.194507315139,
+                        "width": 2766.805236396054,
+                        "left": 100.03034128236378,
+                        "top": 544.3447466133055
+                    },
+                    "points": [
+                        {
+                            "x": 100.03034128236378,
+                            "y": 544.3447466133055
+                        },
+                        {
+                            "x": 2866.8355776784183,
+                            "y": 544.3447466133055
+                        },
+                        {
+                            "x": 2866.8355776784183,
+                            "y": 3194.5392539284444
+                        },
+                        {
+                            "x": 100.03034128236378,
+                            "y": 3194.5392539284444
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "09587a6ab722f0981e8e38c13d2182d6": {
+            "asset": {
+                "format": "jpg",
+                "id": "09587a6ab722f0981e8e38c13d2182d6",
+                "name": "john-matychuk-dJdcb11aboQ-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/john-matychuk-dJdcb11aboQ-unsplash.jpg",
+                "size": {
+                    "width": 5402,
+                    "height": 3601
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "bTVMGV-yU",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 1658.5728405367943,
+                        "width": 1853.5266588840532,
+                        "left": 1785.4129226722434,
+                        "top": 922.8474918488533
+                    },
+                    "points": [
+                        {
+                            "x": 1785.4129226722434,
+                            "y": 922.8474918488533
+                        },
+                        {
+                            "x": 3638.9395815562966,
+                            "y": 922.8474918488533
+                        },
+                        {
+                            "x": 3638.9395815562966,
+                            "y": 2581.4203323856477
+                        },
+                        {
+                            "x": 1785.4129226722434,
+                            "y": 2581.4203323856477
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "78fbb64c70a0466f249f7fb7cdbe4b5b": {
+            "asset": {
+                "format": "jpg",
+                "id": "78fbb64c70a0466f249f7fb7cdbe4b5b",
+                "name": "joel-mott-9r9Ex5iEc5o-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/joel-mott-9r9Ex5iEc5o-unsplash.jpg",
+                "size": {
+                    "width": 2533,
+                    "height": 3784
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "9eugEsPul",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 472.5643310546875,
+                        "width": 330.6200643468786,
+                        "left": 1372.0497785026644,
+                        "top": 2834.3046875
+                    },
+                    "points": [
+                        {
+                            "x": 1372.0497785026644,
+                            "y": 2834.3046875
+                        },
+                        {
+                            "x": 1702.669842849543,
+                            "y": 2834.3046875
+                        },
+                        {
+                            "x": 1702.669842849543,
+                            "y": 3306.8690185546875
+                        },
+                        {
+                            "x": 1372.0497785026644,
+                            "y": 3306.8690185546875
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "0991d6e5d6dff0223a683b2ffcd6eefd": {
+            "asset": {
+                "format": "jpg",
+                "id": "0991d6e5d6dff0223a683b2ffcd6eefd",
+                "name": "jad-limcaco-Y_J0phaFy2g-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/jad-limcaco-Y_J0phaFy2g-unsplash.jpg",
+                "size": {
+                    "width": 4895,
+                    "height": 2992
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "j2O0R1Gdr",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 635.1320757833643,
+                        "width": 627.6461461321985,
+                        "left": 2392.4065084275967,
+                        "top": 515.3182734797869
+                    },
+                    "points": [
+                        {
+                            "x": 2392.4065084275967,
+                            "y": 515.3182734797869
+                        },
+                        {
+                            "x": 3020.0526545597954,
+                            "y": 515.3182734797869
+                        },
+                        {
+                            "x": 3020.0526545597954,
+                            "y": 1150.450349263151
+                        },
+                        {
+                            "x": 2392.4065084275967,
+                            "y": 1150.450349263151
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "d11aa788834e679f75f2134827480ce3": {
+            "asset": {
+                "format": "jpg",
+                "id": "d11aa788834e679f75f2134827480ce3",
+                "name": "giorgio-trovato-7PUrk4B18tY-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/giorgio-trovato-7PUrk4B18tY-unsplash.jpg",
+                "size": {
+                    "width": 5596,
+                    "height": 3731
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "BI4POWd_S",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 511.62559853830646,
+                        "width": 283.9851369045311,
+                        "left": 3253.340646445603,
+                        "top": 1234.1117534022178
+                    },
+                    "points": [
+                        {
+                            "x": 3253.340646445603,
+                            "y": 1234.1117534022178
+                        },
+                        {
+                            "x": 3537.3257833501343,
+                            "y": 1234.1117534022178
+                        },
+                        {
+                            "x": 3537.3257833501343,
+                            "y": 1745.7373519405241
+                        },
+                        {
+                            "x": 3253.340646445603,
+                            "y": 1745.7373519405241
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "6afba54052a2711f0957a5b28675d6ee": {
+            "asset": {
+                "format": "jpg",
+                "id": "6afba54052a2711f0957a5b28675d6ee",
+                "name": "free-to-use-sounds-Vkt3uDeDkdg-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/free-to-use-sounds-Vkt3uDeDkdg-unsplash.jpg",
+                "size": {
+                    "width": 2832,
+                    "height": 4240
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "poW8y-rEE",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 788.1240441188339,
+                        "width": 908.7004337929869,
+                        "left": 931.5539750772798,
+                        "top": 875.6010298295455
+                    },
+                    "points": [
+                        {
+                            "x": 931.5539750772798,
+                            "y": 875.6010298295455
+                        },
+                        {
+                            "x": 1840.2544088702668,
+                            "y": 875.6010298295455
+                        },
+                        {
+                            "x": 1840.2544088702668,
+                            "y": 1663.7250739483793
+                        },
+                        {
+                            "x": 931.5539750772798,
+                            "y": 1663.7250739483793
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "ae249965dbd5ac69fedba77996f67519": {
+            "asset": {
+                "format": "jpg",
+                "id": "ae249965dbd5ac69fedba77996f67519",
+                "name": "emiel-van-betsbrugge-rogwZG1NfII-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/emiel-van-betsbrugge-rogwZG1NfII-unsplash.jpg",
+                "size": {
+                    "width": 2647,
+                    "height": 2647
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "x7o7fx7nA",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 312.90603325583714,
+                        "width": 302.4047128976869,
+                        "left": 1534.363081309421,
+                        "top": 1084.1141412593115
+                    },
+                    "points": [
+                        {
+                            "x": 1534.363081309421,
+                            "y": 1084.1141412593115
+                        },
+                        {
+                            "x": 1836.7677942071077,
+                            "y": 1084.1141412593115
+                        },
+                        {
+                            "x": 1836.7677942071077,
+                            "y": 1397.0201745151487
+                        },
+                        {
+                            "x": 1534.363081309421,
+                            "y": 1397.0201745151487
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "d77eb97486a47947d6bab3e4af174914": {
+            "asset": {
+                "format": "jpg",
+                "id": "d77eb97486a47947d6bab3e4af174914",
+                "name": "eilis-garvey-rb_PpjzWKnU-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/eilis-garvey-rb_PpjzWKnU-unsplash.jpg",
+                "size": {
+                    "width": 4912,
+                    "height": 3264
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "Zh0UyyeOA",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 358.6145898194272,
+                        "width": 390.5535081937552,
+                        "left": 2664.9472527010967,
+                        "top": 1543.6917613636365
+                    },
+                    "points": [
+                        {
+                            "x": 2664.9472527010967,
+                            "y": 1543.6917613636365
+                        },
+                        {
+                            "x": 3055.5007608948517,
+                            "y": 1543.6917613636365
+                        },
+                        {
+                            "x": 3055.5007608948517,
+                            "y": 1902.3063511830637
+                        },
+                        {
+                            "x": 2664.9472527010967,
+                            "y": 1902.3063511830637
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "5e56b79fc8da0e05f169598b02b311c8": {
+            "asset": {
+                "format": "jpg",
+                "id": "5e56b79fc8da0e05f169598b02b311c8",
+                "name": "doyoun-seo-Xe1S9aq2fqg-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/doyoun-seo-Xe1S9aq2fqg-unsplash.jpg",
+                "size": {
+                    "width": 2823,
+                    "height": 2823
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "5C7PsVC6e",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 548.8089975404346,
+                        "width": 529.7240318109182,
+                        "left": 637.8769768959235,
+                        "top": 1345.7134716569885
+                    },
+                    "points": [
+                        {
+                            "x": 637.8769768959235,
+                            "y": 1345.7134716569885
+                        },
+                        {
+                            "x": 1167.6010087068416,
+                            "y": 1345.7134716569885
+                        },
+                        {
+                            "x": 1167.6010087068416,
+                            "y": 1894.522469197423
+                        },
+                        {
+                            "x": 637.8769768959235,
+                            "y": 1894.522469197423
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "98d40d6a77f6a0890bf31497ba6aaa14": {
+            "asset": {
+                "format": "jpg",
+                "id": "98d40d6a77f6a0890bf31497ba6aaa14",
+                "name": "diego-lozano-AmZC7bCrsko-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/diego-lozano-AmZC7bCrsko-unsplash.jpg",
+                "size": {
+                    "width": 6000,
+                    "height": 4000
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "I_nE8SI9w",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 2041.5323792261165,
+                        "width": 1761.070838341346,
+                        "left": 2028.792539837934,
+                        "top": 849.8098974488213
+                    },
+                    "points": [
+                        {
+                            "x": 2028.792539837934,
+                            "y": 849.8098974488213
+                        },
+                        {
+                            "x": 3789.86337817928,
+                            "y": 849.8098974488213
+                        },
+                        {
+                            "x": 3789.86337817928,
+                            "y": 2891.3422766749377
+                        },
+                        {
+                            "x": 2028.792539837934,
+                            "y": 2891.3422766749377
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "45c27ab48c2d3aa6c01a235353dfdb30": {
+            "asset": {
+                "format": "jpg",
+                "id": "45c27ab48c2d3aa6c01a235353dfdb30",
+                "name": "david-preston-mW2NETqR49A-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/david-preston-mW2NETqR49A-unsplash.jpg",
+                "size": {
+                    "width": 3500,
+                    "height": 2500
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "3ecKGZLE1",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 601.2711701569734,
+                        "width": 625.254161699041,
+                        "left": 1697.324514586241,
+                        "top": 776.7673775001808
+                    },
+                    "points": [
+                        {
+                            "x": 1697.324514586241,
+                            "y": 776.7673775001808
+                        },
+                        {
+                            "x": 2322.578676285282,
+                            "y": 776.7673775001808
+                        },
+                        {
+                            "x": 2322.578676285282,
+                            "y": 1378.0385476571544
+                        },
+                        {
+                            "x": 1697.324514586241,
+                            "y": 1378.0385476571544
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "655c5aecf4889194075433d75066786c": {
+            "asset": {
+                "format": "jpg",
+                "id": "655c5aecf4889194075433d75066786c",
+                "name": "david-preston--t7S0WPRr4E-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/david-preston--t7S0WPRr4E-unsplash.jpg",
+                "size": {
+                    "width": 2705,
+                    "height": 3500
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "U8395rGf-",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 525.2926724016174,
+                        "width": 529.1789212966347,
+                        "left": 703.3661459856493,
+                        "top": 1180.9801464238442
+                    },
+                    "points": [
+                        {
+                            "x": 703.3661459856493,
+                            "y": 1180.9801464238442
+                        },
+                        {
+                            "x": 1232.545067282284,
+                            "y": 1180.9801464238442
+                        },
+                        {
+                            "x": 1232.545067282284,
+                            "y": 1706.2728188254616
+                        },
+                        {
+                            "x": 703.3661459856493,
+                            "y": 1706.2728188254616
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "919d11dbb2fa5de7fe7c6155cba87c60": {
+            "asset": {
+                "format": "jpg",
+                "id": "919d11dbb2fa5de7fe7c6155cba87c60",
+                "name": "chris-benson-h0UG2Bd_Few-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/chris-benson-h0UG2Bd_Few-unsplash.jpg",
+                "size": {
+                    "width": 4096,
+                    "height": 2303
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "pAIwSHVGN",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 247.18617647956398,
+                        "width": 263.2253928866832,
+                        "left": 689.0614143920595,
+                        "top": 421.98532180786134
+                    },
+                    "points": [
+                        {
+                            "x": 689.0614143920595,
+                            "y": 421.98532180786134
+                        },
+                        {
+                            "x": 952.2868072787428,
+                            "y": 421.98532180786134
+                        },
+                        {
+                            "x": 952.2868072787428,
+                            "y": 669.1714982874253
+                        },
+                        {
+                            "x": 689.0614143920595,
+                            "y": 669.1714982874253
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "02bc953542c14145a93929b47d8d9367": {
+            "asset": {
+                "format": "jpg",
+                "id": "02bc953542c14145a93929b47d8d9367",
+                "name": "chris-bair-PJLDC3tA0Sc-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/chris-bair-PJLDC3tA0Sc-unsplash.jpg",
+                "size": {
+                    "width": 5184,
+                    "height": 3888
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "O_EUTdZYo",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 631.4307518131546,
+                        "width": 752.7095320254342,
+                        "left": 1115.480943703474,
+                        "top": 972.1929572293619
+                    },
+                    "points": [
+                        {
+                            "x": 1115.480943703474,
+                            "y": 972.1929572293619
+                        },
+                        {
+                            "x": 1868.190475728908,
+                            "y": 972.1929572293619
+                        },
+                        {
+                            "x": 1868.190475728908,
+                            "y": 1603.6237090425166
+                        },
+                        {
+                            "x": 1115.480943703474,
+                            "y": 1603.6237090425166
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "6153176dc5f5d12bb4ab6a6ccdfaec14": {
+            "asset": {
+                "format": "jpg",
+                "id": "6153176dc5f5d12bb4ab6a6ccdfaec14",
+                "name": "brantley-neal-_CAvB1vYIlY-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/brantley-neal-_CAvB1vYIlY-unsplash.jpg",
+                "size": {
+                    "width": 2603,
+                    "height": 3904
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "S15NizkUy",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 261.7376759426653,
+                        "width": 244.15637907279552,
+                        "left": 1167.8850577420965,
+                        "top": 1109.3437136815598
+                    },
+                    "points": [
+                        {
+                            "x": 1167.8850577420965,
+                            "y": 1109.3437136815598
+                        },
+                        {
+                            "x": 1412.041436814892,
+                            "y": 1109.3437136815598
+                        },
+                        {
+                            "x": 1412.041436814892,
+                            "y": 1371.0813896242253
+                        },
+                        {
+                            "x": 1167.8850577420965,
+                            "y": 1371.0813896242253
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "dfe0b6cb15edb01865859997174c686f": {
+            "asset": {
+                "format": "jpg",
+                "id": "dfe0b6cb15edb01865859997174c686f",
+                "name": "branden-tate-XgEHOPn7h_E-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/branden-tate-XgEHOPn7h_E-unsplash.jpg",
+                "size": {
+                    "width": 5184,
+                    "height": 3456
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "km8AzFthS",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 1226.23778691067,
+                        "width": 1160.0756436104218,
+                        "left": 2162.5014151674936,
+                        "top": 1135.677031637717
+                    },
+                    "points": [
+                        {
+                            "x": 2162.5014151674936,
+                            "y": 1135.677031637717
+                        },
+                        {
+                            "x": 3322.577058777915,
+                            "y": 1135.677031637717
+                        },
+                        {
+                            "x": 3322.577058777915,
+                            "y": 2361.914818548387
+                        },
+                        {
+                            "x": 2162.5014151674936,
+                            "y": 2361.914818548387
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "04fd6b0657337279a2c9e0769f32df04": {
+            "asset": {
+                "format": "jpg",
+                "id": "04fd6b0657337279a2c9e0769f32df04",
+                "name": "bogomil-mihaylov-OHxTNeAtNRs-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/bogomil-mihaylov-OHxTNeAtNRs-unsplash.jpg",
+                "size": {
+                    "width": 3456,
+                    "height": 5184
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "5SODbLUTX",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 1877.6323998821667,
+                        "width": 1721.6411337209302,
+                        "left": 846.5487645348837,
+                        "top": 982.6425105323476
+                    },
+                    "points": [
+                        {
+                            "x": 846.5487645348837,
+                            "y": 982.6425105323476
+                        },
+                        {
+                            "x": 2568.189898255814,
+                            "y": 982.6425105323476
+                        },
+                        {
+                            "x": 2568.189898255814,
+                            "y": 2860.2749104145146
+                        },
+                        {
+                            "x": 846.5487645348837,
+                            "y": 2860.2749104145146
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "219a29aae8dd3b304f6fb4c97b9c7933": {
+            "asset": {
+                "format": "jpg",
+                "id": "219a29aae8dd3b304f6fb4c97b9c7933",
+                "name": "ben-mater-YO3iFGBN6TU-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/ben-mater-YO3iFGBN6TU-unsplash.jpg",
+                "size": {
+                    "width": 5472,
+                    "height": 3648
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "oTDNmh0vy",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 2814.9104385565292,
+                        "width": 2738.5340270238835,
+                        "left": 1585.5591898650744,
+                        "top": 321.7476046351582
+                    },
+                    "points": [
+                        {
+                            "x": 1585.5591898650744,
+                            "y": 321.7476046351582
+                        },
+                        {
+                            "x": 4324.093216888958,
+                            "y": 321.7476046351582
+                        },
+                        {
+                            "x": 4324.093216888958,
+                            "y": 3136.6580431916873
+                        },
+                        {
+                            "x": 1585.5591898650744,
+                            "y": 3136.6580431916873
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "ddb625620a925a42d727d940f66114e4": {
+            "asset": {
+                "format": "jpg",
+                "id": "ddb625620a925a42d727d940f66114e4",
+                "name": "arthur-osipyan-vLusIJAYy_Q-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/arthur-osipyan-vLusIJAYy_Q-unsplash.jpg",
+                "size": {
+                    "width": 2738,
+                    "height": 1825
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "n5phchkPF",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 278.46979089173726,
+                        "width": 265.1761855258736,
+                        "left": 367.402354503092,
+                        "top": 684.2256749534134
+                    },
+                    "points": [
+                        {
+                            "x": 367.402354503092,
+                            "y": 684.2256749534134
+                        },
+                        {
+                            "x": 632.5785400289657,
+                            "y": 684.2256749534134
+                        },
+                        {
+                            "x": 632.5785400289657,
+                            "y": 962.6954658451507
+                        },
+                        {
+                            "x": 367.402354503092,
+                            "y": 962.6954658451507
+                        }
+                    ]
+                },
+                {
+                    "id": "NRcv1XAFu",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 266.23335996869184,
+                        "width": 290.2073856476814,
+                        "left": 1928.6610879827074,
+                        "top": 777.5941834556259
+                    },
+                    "points": [
+                        {
+                            "x": 1928.6610879827074,
+                            "y": 777.5941834556259
+                        },
+                        {
+                            "x": 2218.868473630389,
+                            "y": 777.5941834556259
+                        },
+                        {
+                            "x": 2218.868473630389,
+                            "y": 1043.8275434243176
+                        },
+                        {
+                            "x": 1928.6610879827074,
+                            "y": 1043.8275434243176
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "ff6125b735eadd068f7aa79336c96e30": {
+            "asset": {
+                "format": "jpg",
+                "id": "ff6125b735eadd068f7aa79336c96e30",
+                "name": "anton-mishin-_AR3i6Gck0Q-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/anton-mishin-_AR3i6Gck0Q-unsplash.jpg",
+                "size": {
+                    "width": 3008,
+                    "height": 2000
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "0sXB2CoIa",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 399.6178166783271,
+                        "width": 419.9192999121174,
+                        "left": 743.0429332092639,
+                        "top": 155.65346485346703
+                    },
+                    "points": [
+                        {
+                            "x": 743.0429332092639,
+                            "y": 155.65346485346703
+                        },
+                        {
+                            "x": 1162.9622331213814,
+                            "y": 155.65346485346703
+                        },
+                        {
+                            "x": 1162.9622331213814,
+                            "y": 555.2712815317941
+                        },
+                        {
+                            "x": 743.0429332092639,
+                            "y": 555.2712815317941
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "636bf014483e4602c3c00c0463c7624e": {
+            "asset": {
+                "format": "jpg",
+                "id": "636bf014483e4602c3c00c0463c7624e",
+                "name": "andrii-leonov-W_rQAwVRPgg-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/andrii-leonov-W_rQAwVRPgg-unsplash.jpg",
+                "size": {
+                    "width": 2917,
+                    "height": 3890
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "zNAycTKzP",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 1593.400650024414,
+                        "width": 1910.2797743111605,
+                        "left": 574.8963307782639,
+                        "top": 1277.410408209178
+                    },
+                    "points": [
+                        {
+                            "x": 574.8963307782639,
+                            "y": 1277.410408209178
+                        },
+                        {
+                            "x": 2485.1761050894243,
+                            "y": 1277.410408209178
+                        },
+                        {
+                            "x": 2485.1761050894243,
+                            "y": 2870.811058233592
+                        },
+                        {
+                            "x": 574.8963307782639,
+                            "y": 2870.811058233592
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "0aaab0d1931ac0962c03ab606d53216c": {
+            "asset": {
+                "format": "jpg",
+                "id": "0aaab0d1931ac0962c03ab606d53216c",
+                "name": "alexandre-lecocq-ndBWgMLw6Bc-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/alexandre-lecocq-ndBWgMLw6Bc-unsplash.jpg",
+                "size": {
+                    "width": 4309,
+                    "height": 2426
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "mVw2Gg0pz",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 184.26047743294558,
+                        "width": 204.7479467147436,
+                        "left": 1289.1191907051282,
+                        "top": 1730.845305365788
+                    },
+                    "points": [
+                        {
+                            "x": 1289.1191907051282,
+                            "y": 1730.845305365788
+                        },
+                        {
+                            "x": 1493.8671374198718,
+                            "y": 1730.845305365788
+                        },
+                        {
+                            "x": 1493.8671374198718,
+                            "y": 1915.1057827987336
+                        },
+                        {
+                            "x": 1289.1191907051282,
+                            "y": 1915.1057827987336
+                        }
+                    ]
+                },
+                {
+                    "id": "8EA590K-l",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 213.77297700274184,
+                        "width": 237.27886649889825,
+                        "left": 2777.116131122296,
+                        "top": 1696.1605299895032
+                    },
+                    "points": [
+                        {
+                            "x": 2777.116131122296,
+                            "y": 1696.1605299895032
+                        },
+                        {
+                            "x": 3014.3949976211943,
+                            "y": 1696.1605299895032
+                        },
+                        {
+                            "x": 3014.3949976211943,
+                            "y": 1909.933506992245
+                        },
+                        {
+                            "x": 2777.116131122296,
+                            "y": 1909.933506992245
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "e1087ff5debb97932b086c957f7c494b": {
+            "asset": {
+                "format": "jpg",
+                "id": "e1087ff5debb97932b086c957f7c494b",
+                "name": "ajda-atz-HEKgHLpNgGk-unsplash.jpg",
+                "path": "file:/Users/davo/Downloads/Stop-Signs/ajda-atz-HEKgHLpNgGk-unsplash.jpg",
+                "size": {
+                    "width": 3553,
+                    "height": 4737
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "5hyRJ1IXj",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Stop-Sign"
+                    ],
+                    "boundingBox": {
+                        "height": 188.50573789726184,
+                        "width": 202.16325860690577,
+                        "left": 3264.995841070778,
+                        "top": 2982.707301226866
+                    },
+                    "points": [
+                        {
+                            "x": 3264.995841070778,
+                            "y": 2982.707301226866
+                        },
+                        {
+                            "x": 3467.159099677684,
+                            "y": 2982.707301226866
+                        },
+                        {
+                            "x": 3467.159099677684,
+                            "y": 3171.2130391241276
+                        },
+                        {
+                            "x": 3264.995841070778,
+                            "y": 3171.2130391241276
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        }
+    }
+}
